@@ -545,6 +545,7 @@ FW_VERSIONS = {
     ],
     (Ecu.fwdCamera, 0x7c4, None): [
       b'\xf1\x00RG3EMFC  AT USA LHD 1.00 1.01 99211-JI010 210419',
+      b'\xf1\x00RG3EMFC  AT USA LHD 1.00 1.02 99211-JI010 220614',
     ],
   },
   CAR.GENESIS_G80_2ND_GEN_FL: {
